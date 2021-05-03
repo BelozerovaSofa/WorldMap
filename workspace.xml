@@ -54,7 +54,6 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -72,12 +71,6 @@
     </file-type-list>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1612" />
-    <option name="height" value="876" />
-  </component>
   <component name="ProjectId" id="1r4kmlbnuxCU9AXZbn2dNJlYyIs" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -99,23 +92,28 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jackson/woodstox-core-6.2.4.jar" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/src.zip" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\dimav\Projects\WorldMapGame\resources" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="by.pomidor.repositories" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\dimav\Projects\WorldMapGame\resources" />
       <recent name="C:\Users\Admin\WorldMapGame\lib\jackson" />
       <recent name="C:\Users\Admin\WorldMapGame\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StarterTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -144,7 +142,7 @@
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="by.pomidor.Main" />
       <module name="WorldMapGame" />
-      <option name="VM_PARAMETERS" value="--module-path lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml" />
+      <option name="VM_PARAMETERS" value="--module-path lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.graphics,javafx.web --add-exports javafx.graphics/com.sun.javafx.sg.prism=ALL-UNNAMED --add-opens javafx.base/com.sun.javafx.runtime=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sample.*" />
@@ -208,6 +206,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StarterTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.StarterTest" />
@@ -225,6 +227,9 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1619554102555" duration="2377000" />
       <workItem from="1619595461429" duration="2000" />
+      <workItem from="1619962326279" duration="13926000" />
+      <workItem from="1619982066060" duration="4505000" />
+      <workItem from="1619988486049" duration="709000" />
     </task>
     <servers />
   </component>
@@ -234,5 +239,24 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/pomidor/Main.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="webEngine.getPage()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
