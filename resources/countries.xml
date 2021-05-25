@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15.0.3" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Берлин</string>
+    </void>
+    <void property="description">
+     <string>В городе Ройтлинген есть улица, ширина которой составляет 31 см. За это она попала в Книгу рекордов Гиннеса как самая узкая в мире.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\germany.gif</string>
+    </void>
+    <void property="name">
+     <string>Германия</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Лондон</string>
+    </void>
+    <void property="description">
+     <string>Шотландия может похвастаться самым коротким авиарейсом в мире. Он длится 1 минуту 14 секунд с острова Вестра на остров Papa Westray.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\velikobritaniya.gif</string>
+    </void>
+    <void property="name">
+     <string>Великобритания</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Париж</string>
+    </void>
+    <void property="description">
+     <string>Слова «завтрак», «обед», «ужин», «еда» и все однокоренные и смежные по смыслу священны для французов. «Конкурировать» с этими словами могут только «регби», «велосипед», «футбол». И то, если на сытый желудок. Категорически нельзя звонить французу, когда он ест! Имейте то в виду. И это не шутка. Опоздание с обеда простят скорее, чем если застрял в пробке.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\france.gif</string>
+    </void>
+    <void property="name">
+     <string>Франция</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Афины</string>
+    </void>
+    <void property="description">
+     <string>В Греции живет самое большое количество видов диких животных в Европе. Здесь обитает 107 видов различных рыб, 240 видов птиц, 116 видов млекопитающих, а также 18 видов амфибий.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\greciya.gif</string>
+    </void>
+    <void property="name">
+     <string>Греция</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Рим</string>
+    </void>
+    <void property="description">
+     <string>В Европе есть всего три действующих вулкана: Этна, Стромболи и Везувий. Все они расположены на юге Италии. Интересно знать, что Этна – самый активный вулкан в мире. Он почти непрерывно извергался последние 3500 лет, а с 1999 года он ежедневно извергает лаву.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\italy.gif</string>
+    </void>
+    <void property="name">
+     <string>Италия</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Катманду</string>
+    </void>
+    <void property="description">
+     <string>На территории Непала есть все климатические зоны, имеющиеся на Земле – от вечной мерзлоты до тропиков.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\nepal.gif</string>
+    </void>
+    <void property="name">
+     <string>Непал</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Токио</string>
+    </void>
+    <void property="description">
+     <string>В метро Токио столько людей, что специальные люди утрамбовывают пассажиров в вагоны. Метро здесь, кстати, частное, а не государственное, причём разным компаниям принадлежат разные его ветки.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\yapan.gif</string>
+    </void>
+    <void property="name">
+     <string>Япония</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Нью-Дели</string>
+    </void>
+    <void property="description">
+     <string>Шампунь был впервые придуман в Индии. Но не как коммерческий продукт, а как средство по уходу за волосами. Слово «Шампунь» происходит от санскритского «champu», что означает — массажировать.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\indiya.gif</string>
+    </void>
+    <void property="name">
+     <string>Индия</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Ереван</string>
+    </void>
+    <void property="description">
+     <string>Христианство распространилось в армянском царстве, ныне прекратившем свое существование, вскоре после смерти Иисуса, хотя лишь в начале IV века было принято в качестве государственной религии. Тем не менее, Армения сделала это раньше всех стран на планете.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\armeniya.gif</string>
+    </void>
+    <void property="name">
+     <string>Армения</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Абу-Даби</string>
+    </void>
+    <void property="description">
+     <string>В ОАЭ очень хорошая социальная поддержка. За рождение сына государство выделяет семье 50 000 $. На свадьбу выделяют 19 000 $ и виллу, а зарплата госслужащего равна 10 000 $, но только для местных.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\oae.gif</string>
+    </void>
+    <void property="name">
+     <string>Объединенные Арабские Эмираты</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Рабат</string>
+    </void>
+    <void property="description">
+     <string>Марокко – мировой лидер по производству марихуаны. При этом самим марокканцам курить гашиш запрещено.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\marocco.gif</string>
+    </void>
+    <void property="name">
+     <string>Марокко</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Антананариву</string>
+    </void>
+    <void property="description">
+     <string> Мадагаскар — первый в мире производитель ванили.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\madagaskar.gif</string>
+    </void>
+    <void property="name">
+     <string>Мадагаскар</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Могадишо</string>
+    </void>
+    <void property="description">
+     <string>Для жителей Сомали взять с собой перед выходом из дома огнестрельное оружие так же естественно, как обуть ботинки. Даже, пожалуй, более естественно, потому что ботинки тут есть не у всех, а вот пистолет или автомат найдётся в каждой, даже самой бедной, хижине.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\somali.gif</string>
+    </void>
+    <void property="name">
+     <string>Сомали</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Каир</string>
+    </void>
+    <void property="description">
+     <string>В Египте находится одно из семи чудес древнего мира – Великая пирамида в Гизе (Пирамида Хеопса). Это единственное из всех семи чудес, которое сохранилось до наших дней.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\egypt.gif</string>
+    </void>
+    <void property="name">
+     <string>Египет</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Хараре</string>
+    </void>
+    <void property="description">
+     <string>Значительную долю дохода страны составляет экспорт кофе, по производству которого она занимает одну из лидирующих позиций в мире.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\zimbabve.gif</string>
+    </void>
+    <void property="name">
+     <string>Зимбабве</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Оттава</string>
+    </void>
+    <void property="description">
+     <string>В Канаде расположено больше озер, чем во всех остальных странах мира вместе взятых. Только в провинции Онтарио их насчитывается 250000.Онисодержат около1/5 мировых запасов пресной воды.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\canada.gif</string>
+    </void>
+    <void property="name">
+     <string>Канада</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Вашингтон</string>
+    </void>
+    <void property="description">
+     <string>В Штатах самая протяженная сеть автомобильных дорог на планете— 6,5млн км. Наиболее безлюдная автострада— Трасса-50 (Юта-Калифорния). Она ведет через пустыню, где на 200–300км встречается всего один населенный пункт.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\usa.gif</string>
+    </void>
+    <void property="name">
+     <string>США</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Гавана</string>
+    </void>
+    <void property="description">
+     <string>На Кубе жителям до сих пор выдают продукты первой необходимости по карточкам, что позволяет даже семьям с мизерным доходом не страдать от голода.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\cuba.gif</string>
+    </void>
+    <void property="name">
+     <string>Куба</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Тегусигальпа</string>
+    </void>
+    <void property="description">
+     <string>Гондурас – это «банановая республика» в прямом смысле слова, страна занимает второе место в мире по экспорту бананов.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\gonduras.gif</string>
+    </void>
+    <void property="name">
+     <string>Гондурас</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Бразилиа</string>
+    </void>
+    <void property="description">
+     <string> Бразилия считается самым крупным экспортером яблок на планете. Среди мировых поставщиков кофе эта страна также находится в лидерах. Кроме того, в стране выращивают сахарный тростник, кукурузу, рис и цитрусовые.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\braziliya.gif</string>
+    </void>
+    <void property="name">
+     <string>Бразилия</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Канберра</string>
+    </void>
+    <void property="description">
+     <string>Австралия – единственный материк на Земле, где нет ни одного вулкана или современного оледенения</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\avstraliya.gif</string>
+    </void>
+    <void property="name">
+     <string>Австралия</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Веллингтон</string>
+    </void>
+    <void property="description">
+     <string>Воду в Голубом озере, которое находится в национальном парке Нельсон-Лейкс, считают самой прозрачной вмире.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\newzeland.gif</string>
+    </void>
+    <void property="name">
+     <string>Новая Зеландия</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Сува</string>
+    </void>
+    <void property="description">
+     <string>Несмотря на скромные размеры государства, на его территории находится почти три десятка аэропортов, пусть большинство из них и не имеет твёрдого покрытия. Просто в состав Фиджи входит 332 острова, и между ними нужно как-то перемещаться, так что лёгкиесамолётыотлично подходят для этой цели.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\fidgi.gif</string>
+    </void>
+    <void property="name">
+     <string>Фиджи</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Ярен</string>
+    </void>
+    <void property="description">
+     <string>Жители Науру считаются самыми толстыми в мире, по статистике, около 95% населения страдаетот той или иной степени ожирения.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\nauru.gif</string>
+    </void>
+    <void property="name">
+     <string>Науру</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.pomidor.domain.Country">
+    <void property="capital">
+     <string>Апиа</string>
+    </void>
+    <void property="description">
+     <string>На Самоа практически нет диких животных. Здесь обитает большое количество птиц, особенно певчих, и насекомых, а также коренные обитатели этих мест – летучие лисы.</string>
+    </void>
+    <void property="flagImagePath">
+     <string>D:\Курсовая работа\фраг\samoa.gif</string>
+    </void>
+    <void property="name">
+     <string>Самоа</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

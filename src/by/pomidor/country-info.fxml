@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="388.0" prefWidth="730.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="91.0" fitWidth="200.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true" />
+      <Label layoutX="230.0" layoutY="78.0" prefHeight="54.0" prefWidth="484.0" text="Label" />
+      <Label fx:id="countryName" alignment="CENTER" layoutX="230.0" layoutY="14.0" prefHeight="45.0" prefWidth="454.0" text="Label" textAlignment="CENTER">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <TextArea editable="false" layoutX="14.0" layoutY="132.0" prefHeight="200.0" prefWidth="702.0">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>
